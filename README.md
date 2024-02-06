@@ -1,5 +1,4 @@
 # Linux-CLI-101
-# LINUX CLI
 
 ### 1. **Introduction to the Command Line Interface (CLI)**
 
